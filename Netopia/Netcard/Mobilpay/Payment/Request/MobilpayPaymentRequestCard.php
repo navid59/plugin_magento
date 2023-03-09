@@ -1,7 +1,8 @@
 <?php
     namespace Netopia\Netcard\Mobilpay\Payment\Request;
     use \Netopia\Netcard\Mobilpay\Payment\MobilpayPaymentInvoice;
-    use \Netopia\Netcard\Mobilpay\Payment\Request\MobilpayPaymentRequestAbstract;    
+    use \Netopia\Netcard\Mobilpay\Payment\Request\MobilpayPaymentRequestAbstract;
+    
     /**
      * Class MobilpayPaymentRequestCard
      * This class can be used for accessing mobilpay.ro payment interface for your configured online services
